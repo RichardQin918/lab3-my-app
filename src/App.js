@@ -18,8 +18,9 @@ const useStyles = makeStyles(theme => {
             flexGrow: 1
         },
         paper: {
-            height: 140,
-            width: 100,
+            margin: 10,
+            height: 40,
+            width: 120,
             backgroundColor: "transparent"
         }
     };
